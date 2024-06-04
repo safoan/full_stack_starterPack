@@ -5,7 +5,8 @@ clone and Code faster
 the idea was each time i am building a FullStck app i had to start from Scratch Since mostly 
 using the same Stack i Figured out why not build a repo that will get me running fast . 
 
- #the_Stack
+ # the_Stack
+ 
 FrontEnd :
 i went with nextjs (without the app Router ) & Tailwind Css
 
